@@ -24,7 +24,7 @@ The purpose of the game is to hit the maximum of balloon in the limited time or 
 - There will be animation and sprites such as cloud, ballon, movement, explosion ...
 - There will be sounds too such as explosion, times up, game ambiance ... 
 - X type of balloon
-- X type of effect of this balloon
+- X type of effect of this balloon (bomb ballon = -3pts, star ballon = +5 pts)
 - An in game menu will be also available where you can see your current score, highscore and restart
 - 5 level of difficulty (choosable in the menu)
 - When the game is finish you can go back to the menu or you can replay by clicking the balloon the screen
